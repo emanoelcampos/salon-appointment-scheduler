@@ -30,7 +30,7 @@ This project provided valuable experience in using Bash scripting to interact wi
 
 ### Output When the Customer Does Not Exist in the Database
 
-```bash
+```
 $ ./appointment-script.sh 
 
 ~~~~~ MY SALON ~~~~~
@@ -62,7 +62,7 @@ I have put you down for a cut at 10:30, Emanoel.
 
 ### Output When the Customer Does Exist in the Database
 
-```bash
+```
 $ ./appointment-script.sh 
 
 ~~~~~ MY SALON ~~~~~
